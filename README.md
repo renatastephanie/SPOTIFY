@@ -1,7 +1,7 @@
 # Projeto de Reprodução do Site do Spotify
 
 Este projeto é uma recriação do site do Spotify, incluindo funcionalidades como área de busca, integração com a API de artistas, exibição de listas de reprodução e o logo oficial do Spotify. O objetivo é replicar a experiência do usuário ao navegar no serviço de streaming de música.
-Observações: O projeto está incompleto.
+**Observações:** O projeto está incompleto.
 
 ## Funcionalidades
 
